@@ -251,7 +251,7 @@ body{
 
 .main_layer .middle_layer p,
 .main_layer .middle_layer .fa {
-    font-size: 7rem;
+    font-size: 5rem;
     font-weight: 900;
 }
 
@@ -351,7 +351,7 @@ sup{
  }
 
  @media (max-width: 439px) {
-    .middle_layer p #temp #temp_status {
-        font-size: -3rem;
+    .middle_layer p #temp{
+        font-size: -2rem;
     }
  }
